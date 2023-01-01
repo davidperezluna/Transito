@@ -72,7 +72,7 @@
     "zone.js": "0.7.2"
   },
   "devDependencies": {
-    "@angular/cli": "^1.0.0",
+    "@angular/cli": "^15.0.4",
     "@types/googlemaps": "^3.30.12",
     "@types/jasmine": "2.2.30",
     "@types/node": "7.0.10",
